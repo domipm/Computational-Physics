@@ -1,0 +1,7 @@
+/info
+*.png
+*.gif
+*.txt
+*.plot
+*.exe
+graficas.py
